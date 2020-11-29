@@ -1,0 +1,24 @@
+.contact-content{
+    background-image: url("../img/Picture1.png");
+    background-size: cover;
+    margin: 12px;
+    margin-top: 12px;
+    padding: 9px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 145px;
+}
+
+.contact-content h2{
+    margin: 12px;
+    color: white;
+}
+
+.contact-content h2{
+    display: table-cell;
+    
+}
+
+.contact-form{
+    height: 80vh;
+}

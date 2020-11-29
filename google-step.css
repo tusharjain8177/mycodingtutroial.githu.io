@@ -1,0 +1,39 @@
+.blog{
+    margin-bottom: 16px;
+}
+
+.blog p{
+    font-size: 18px;
+}
+
+
+
+.blog p span:hover{
+    cursor: pointer;
+}
+
+.blog-article{
+    margin-top: 2px;
+}
+
+
+.blog-article li{
+    display: list-item;
+    margin-left: 12px;
+}
+
+.blog-article ul{
+    text-align: justify;
+    margin-left: 52px;
+    margin-top: 10px;
+
+}
+
+.blog-article ul li::marker{
+    unicode-bidi: isolate;
+    font-variant-numeric: tabular-nums;
+    text-transform: none;
+    text-indent: 0px !important;
+    text-align: start !important;
+    text-align-last: start !important;
+}
