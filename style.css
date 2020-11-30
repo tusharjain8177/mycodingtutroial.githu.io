@@ -48,6 +48,7 @@
 }
 
 .content{ 
+    height: 300px;
     display: flex;
     align-items: center;
     margin-left: 260px;
