@@ -48,10 +48,10 @@
 }
 
 .content{ 
-    height: 395px;
     display: flex;
-    margin-top: 12px;
-    padding: 9px;
+    align-items: center;
+    margin-left: 260px;
+    
 }
 
 .content-left{
