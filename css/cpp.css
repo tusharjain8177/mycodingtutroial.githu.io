@@ -1,0 +1,30 @@
+.cpp{
+    /* background-color: lawngreen; */
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.cpp img{
+    height: 234px;
+    border-radius: 175px;
+    margin-bottom: 18px;
+}
+
+.cpp-chapter{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}
+
+.cpp-chapter a{
+    text-decoration: none;
+    color: black;
+}
+
+.cpp-chapter a:hover{
+    color: green;
+}
+
